@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "BIMStudio",
+    "slug": "bimstudio",
+    "version": "1.0.0",
+    "orientation": "default",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "com.bimstudio.app",
+      "versionCode": 1,
+      "edgeToEdgeEnabled": true
+    },
+    "plugins": [
+      [
+        "expo-status-bar",
+        {
+          "style": "light",
+          "hidden": false
+        }
+      ]
+    ]
+  }
+}
